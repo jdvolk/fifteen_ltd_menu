@@ -1,10 +1,12 @@
 import React from 'react';
 import './Menu.css'
+import UseInterval from '../Hooks/UseInterval';
 
 export default function MenuPage() {
   return (
     <header className="viewport-header">
       <h1 className="">Menu</h1>
+      {/* {UseInterval()} */}
       <section className="menu">
       <section className="hookah group" >
         <h3 className="title">Hookah</h3>
