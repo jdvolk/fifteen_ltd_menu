@@ -1,3 +1,12 @@
+@font-face {
+  font-family: 'MyFont';
+  src: url(./Madsense.otf) format('otf');
+  /* src: url(./src/assets/Madsense.otf) format('otf'); */
+  /* other formats include: 'woff2', 'truetype, 'opentype',
+                            'embedded-opentype', and 'svg' */
+}
+
+
 p {
   font-size: 20px;
   margin: 2px;

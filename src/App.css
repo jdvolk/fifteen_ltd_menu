@@ -1,10 +1,7 @@
 .App {
   text-align: center;
-  font-family: Arial, Helvetica, sans-serif;
+  /* font-family: Arial, Helvetica, sans-serif; */
   color: #ffffff;;
-}
-@media () {
-
 }
 .App-link {
   color: #61dafb;
@@ -27,4 +24,9 @@ h4 {
   top: 0;
   left: 0;
 }
+
+/* @font-face {
+  font-family: "Open Sans";
+  src: url("https://dl.dafont.com/dl/?f=neon_4")
+} */
 
