@@ -1,0 +1,36 @@
+{
+
+    "hookah" : [ 
+      {"Single hookah (for up to two people)" : 20},
+      {"2 hookahs (4 people)" : 40},
+      {"3 hookahs (6 people)" : 50},
+      {"aditional bowl (after first rental)" : 15},
+      {"ask for large groups" : "tbd"}
+      ],
+  
+  "kava": {
+      "regular" : {
+        "4oz" : 4,
+        "8oz" : 8,
+        "12oz" :12
+      },
+      "fiji" : {
+        "4oz" : 5,
+        "8oz" : 9,
+        "12oz" :13
+      },
+      "seasonal special" : {
+        "4oz" : 6,
+        "8oz" : 10,
+        "12oz" :14
+      }
+  },
+  "cbd soda" :[{ "can" : 3.5}],
+  "tea": [{"cup" : 3.5}],
+  "coffee": {
+    "french press" : 7,
+    "drip" : { "12oz" : 2, "16oz" : 3},
+    "bag" : 20
+    }
+  
+}
